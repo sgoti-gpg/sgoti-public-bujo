@@ -1,6 +1,6 @@
 ### 20250126, Sun ###
 
-• 1840.
+• 1840. \
 Secured this account with MFA; very easy to do.  I used the \
 tutorial/introduction pull request/clone tool; cool but not my style. \
 Now I understand the web GUI, it is time to return to my beloved terminal. \
