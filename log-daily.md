@@ -18,3 +18,13 @@ then press `space` or `enter`.  In my 1950’s console guy voice, “Houston \
 we can use bullets”. \
 
 [Alt codes](https://en.wikipedia.org/wiki/Alt_code) \
+
+• 1950.  
+Now I need to research Github’s markdown flavor. I’m currently using  
+Pandoc flavor markdown. Github seems to do something strange with the  
+hard breaks on lines followed by empty lines. Maybe I’ll use double  
+spaces for line breaks, or I could quit guessing and just research Github  
+flavor markdown.  
+*Sigh:*  The things we do for markdown.  
+
+EOF
