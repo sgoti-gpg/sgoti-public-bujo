@@ -27,4 +27,10 @@ spaces for line breaks, or I could quit guessing and just research Github
 flavor markdown.  
 *Sigh:*  The things we do for markdown.  
 
+### 2025/02/02, Sun. ###
+
+• 14:49. Learned about Github flavored markdown (GFM). Follows common  
+mark. I changed the license to GPL too. I just wanted to know how to  
+change license, not that GPL is better for journal.  
+
 EOF
