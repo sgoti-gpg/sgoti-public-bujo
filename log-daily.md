@@ -33,4 +33,9 @@ flavor markdown.
 mark. I changed the license to GPL too. I just wanted to know how to  
 change license, not that GPL is better for journal.  
 
+• 15:07. It worked! I'm the greatest novice to ever push buttons  
+on a website in the entire **world** (dramatic echo added to  
+world). Also I forgot to add the link to the github documentation for  
+[GFM](https://github.github.com/gfm/).  
+
 EOF
