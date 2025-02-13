@@ -61,4 +61,28 @@ colorful text on a black background. Brain fog is kicking in, time to
 push this puppy to origin. Remember kids if you're going to boink it,  
 boink it with sudo! Sgoti:wq  
 
+### 2025/02/12, Wed. ###
+
+• 22:31. Created a Gitea account to work with HPR. Made a PR on  
+the hpr_documentation repo. I generated two new keys for the gitea  
+account. Added a few aliases to the ol’ `git config` now I’m one  
+of the cool kids. Updated my script, it’s a git setup script to make  
+all these changes easier/faster in the future. The tiny human was out of  
+school today due to snow; drove me crazy all day. I have powerful brain  
+fog setting in and I took some sleep aid. These notes are a race against  
+the fat old man’s slow metabolism 😁️.  
+
+I just had to find out how to make emojis. I use `ctrl + .` in gedit to  
+get the emoji selection menu. This doesn’t work in the terminal. There  
+are emoji codes like `:lol:` but I’m in no shape to read those tonight.  
+
+I figured out the ssh issue with github, made a show about it, uploaded  
+the show and made new ssh keys with my hardware keys for both github and  
+gitea. Now I have super ssh powers. I’m not going to proof read any  
+of this because it’ll be a wasted effort; brain fog is pretty thick at  
+the moment. Time to push this to the public bujo and apply some of that  
+good old “hope for the best” medicine I know and love so much. See  
+you when I see you. :wq  
+
 EOF
+
